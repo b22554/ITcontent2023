@@ -1,0 +1,54 @@
+h1.ex_1{
+    Background-color: navy;
+    Color: white;
+}
+
+p.ex_2{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p.ex_3{
+    text-indent: 1em;
+}
+
+span.ex_4{
+    text-decoration: underline;
+}
+
+p.ex_5{
+    border: 1px solid black;
+    margin: 1ex;
+    padding: 2em;
+}
+
+p.ex_6{
+    padding: 20px 10px 20px 10px;
+    border-left: 5px solid skyblue;
+}
+
+ul.ex_7{
+    list-style-type: square;
+}
+
+ol.ex_8{
+    list-style-type: upper-roman;
+}
+
+table{
+    border-collapse: collapse; /* 罫線を重ねて表示する */
+}
+th, td{
+    border: solid 1px;
+    padding: 5px 20px;
+}
+th{
+    background-color: skyblue;
+
+div.ex_box{
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+}
